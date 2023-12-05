@@ -1,7 +1,13 @@
-# Hi I'm Ildar 👋
-## ML - engineer from Russia, 20 y.o.
-## I work in technology stack:
-#### Python • Docker • NumPy • SymPy • Pandas • Matplotlib • Seaborn
-#### Scikit-learn • XGBoost • LightGBM • CatBoost • PyTorch • SQL • Git • Markdown
-## Contact with me:
-- ✉️ canfckpinterest@gmail.com
+## ABOUT ME
+Hi, I'm Ildar 👋, an aspiring Machine Learning specialist.
+					
+I consider my main strengths to be continuous self-development, early completion of tasks, ability to find a common language with people, analytical mindset and ability to achieve specific goals. I am also maniacally interested in the field of machine learning and how it is transforming business.
+
+In my spare time I practice algorithms and study PyTorch documentation.
+
+## HARD SKILLS
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python) ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mySql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL) ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git) ![PyTorch.](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=PyTorch) <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=013243"/>  <img src="https://img.shields.io/badge/scikitlearn-black?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> ![Seaborn](https://img.shields.io/badge/-Seaborn-090909?style=for-the-badge&logo=Seaborn) ![Catboost](https://img.shields.io/badge/-Catboost-090909?style=for-the-badge&logo=Catboost) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=Matplotlib) <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas&logoColor=150458"/> ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker) <img src="https://img.shields.io/badge/Hugging face-black?style=for-the-badge&logo=Hugging face&logoColor=217346"/> <img src="https://img.shields.io/badge/XGBoost-black?style=for-the-badge&logo=XGBoost&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/LightGBM-black?style=for-the-badge&logo=LightGBM&logoColor=ЦВЕТ ЛОГОТИПА"/> <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/microsoft excel-black?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/> <img src="https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/sympy-black?style=for-the-badge&logo=sympy&logoColor=3B5526"/> <img src="https://img.shields.io/badge/NLTK-black?style=for-the-badge&logo=NLTK&logoColor=3B5526"/> <img src="https://img.shields.io/badge/opencv-black?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+
+## CONTACTS
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](iashirov.clf@gmail.com) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/canfckpinterest)
+
